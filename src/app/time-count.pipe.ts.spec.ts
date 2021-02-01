@@ -1,4 +1,4 @@
-import { TimeCount.Pipe.Ts } from './time-count.pipe.ts';
+import { TimeCount.Pipe } from './time-count.pipe.ts';
 
 describe('TimeCount.Pipe.Ts', () => {
   it('should create an instance', () => {
