@@ -31,8 +31,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
     </tr> 
     <tr>
         <td>On create quote enter details</td>
-        <td>['Titus']</td>
-        <td>name = 'Titus'</td>
+        <td>['kelvin']</td>
+        <td>name = 'kelvin'</td>
     </tr>
     <tr>
         <td>Enter quote and the Author</td>
