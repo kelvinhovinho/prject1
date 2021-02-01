@@ -36,7 +36,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
     </tr>
     <tr>
         <td>Enter quote and the Author</td>
-        <td>['Einstein','for every reaction force there is action force']</td>
+        <td>['for every reaction force there is action force']</td>
         <td>Author and quote</td>
     </tr>
     <tr>
